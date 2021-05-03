@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="convMony:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/convMony_jar</output-path>
+    <root id="archive" name="convMony.jar">
+      <element id="module-output" name="convMony" />
+    </root>
+  </artifact>
+</component>
