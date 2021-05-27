@@ -20,13 +20,13 @@ public class App {
 
                 int puntata = Integer.parseInt(textField1.getText());
 
-                //int genDado1 = random.nextInt(6);
-                //int genDado2 = random.nextInt(6);
-                //int genDado3 = random.nextInt(6);
+                int genDado1 = random.nextInt(6);
+                int genDado2 = random.nextInt(6);
+                int genDado3 = random.nextInt(6);
 
-                int genDado1 = 5;
-                int genDado2 = 3;
-                int genDado3 = 5;
+                //int genDado1 = 5;
+                //int genDado2 = 3;
+                //int genDado3 = 5;
 
 
                 dado1.setText(String.valueOf(genDado1));
